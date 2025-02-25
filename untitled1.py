@@ -8,9 +8,6 @@ Original file is located at
 """
 
 
-import streamlit as st
-import plotly.express as px
-import pandas as pd
 
 df=pd.read_excel("/content/Sample - Superstore.xls")
 df
